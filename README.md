@@ -47,7 +47,4 @@
 				<td>Finding the Z-transform and inverse Z-transform of a function </td>
 				</tr>
 				
-			</table>
-		</td>
-	</tr>
-</table>
+		
